@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "toki",
+  "description": "A simple plugin that enforces clean project architecture and provides strict guidelines, preventing the agent from taking wasteful detours and reducing your token usage.",
+  "owner": {
+    "name": "BuildBias",
+    "url": "https://github.com/BuildBias"
+  },
+  "plugins": [
+    {
+      "name": "toki",
+      "description": "A simple plugin that enforces clean project architecture and provides strict guidelines, preventing the agent from taking wasteful detours and reducing your token usage.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

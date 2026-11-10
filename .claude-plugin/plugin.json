@@ -1,0 +1,17 @@
+{
+  "name": "toki",
+  "version": "1.0.0",
+  "description": "A simple plugin that enforces clean project architecture and provides strict guidelines, preventing the agent from taking wasteful detours and reducing your token usage.",
+  "author": {
+    "name": "BuildBias",
+    "url": "https://github.com/BuildBias"
+  },
+  "repository": "https://github.com/BuildBias/toki",
+  "homepage": "https://github.com/BuildBias/toki",
+  "license": "MIT",
+  "keywords": [
+    "productivity",
+    "token-usage",
+    "project-structure"
+  ]
+}
