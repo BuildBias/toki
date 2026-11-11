@@ -4,11 +4,13 @@
 
 ## Option 1: Command Line
 
-Run the following commands directly in Claude Code:
+Run the following commands in your terminal to add the marketplace and install the plugin:
 
 ```bash
-/plugin marketplace add BuildBias/toki
-/plugin install toki@toki
+claude plugin marketplace add BuildBias/toki
+```
+```bash
+claude plugin install toki@toki
 ```
 
 ## Option 2: Manual (Desktop App)
