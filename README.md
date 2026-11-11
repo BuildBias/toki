@@ -25,9 +25,14 @@ Built entirely from scratch, Toki is a Claude Code plugin designed with a singul
 
 Install Toki for **Claude Code** via the terminal:
 
+1. Add the Toki marketplace:
+
 ```bash
 claude plugin marketplace add BuildBias/toki
 ```
+
+2. Install the plugin:
+
 ```bash
 claude plugin install toki@toki
 ```
