@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/stars/BuildBias/toki?style=flat-square&color=111111&label=stars" alt="Stars">
   <img src="https://img.shields.io/github/v/release/BuildBias/toki?style=flat-square&color=111111&label=release" alt="Release">
-  <img src="https://img.shields.io/github/license/BuildBias/toki?style=flat-square" alt="MIT license">
+  <img src="https://img.shields.io/github/license/BuildBias/toki?style=flat-square&color=111111" alt="MIT license">
 </p>
 
 Meet Toki - compact, precise and leaves no waste.
