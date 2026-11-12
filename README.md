@@ -46,6 +46,8 @@ claude plugin install toki@toki
 Plain Claude Code (Base), Claude with Toki, and Claude with the
 Ponytail plugin each got the same 5 everyday coding prompts in three different projects: React, Django and Next.js project with Claude Sonnet
 
+See [benchmarks/METHODOLOGY.md](benchmarks/METHODOLOGY.md) for how the runs were set up and measured.
+
 ## How it works
 
 No cluttered menus. No endless lists of slash commands. Toki operates as a single, highly optimized skill ([`skills/toki/SKILL.md`](skills/toki/SKILL.md)) that acts as a **mandatory file-placement guardrail**.
