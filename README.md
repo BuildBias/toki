@@ -50,7 +50,7 @@ Ponytail plugin each got the same 5 everyday coding prompts in three different p
 
 No cluttered menus. No endless lists of slash commands. Toki operates as a single, highly optimized skill ([`skills/toki/SKILL.md`](skills/toki/SKILL.md)) that acts as a **mandatory file-placement guardrail**.
 
-Before writing a single line of code, Toki evaluates the problem to find the most efficient path forward. It checks if native browser features, standard libraries, or existing components in your repository can do the job instead of writing new logic. It is extremely lazy about generating bloat, but fiercely strict about security, validation, and project structure.
+Before creating a file, Toki has the agent look at your project once, decide where the file belongs, and write it in as few turns as possible. It is extremely lazy about generating bloat, but strict about project structure.
 
 Whenever Claude needs to create, add, move, or rename a file, Toki intercepts the action to enforce four strict rules:
 
