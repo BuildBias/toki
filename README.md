@@ -64,3 +64,15 @@ Whenever Claude needs to create, add, move, or rename a file, Toki intercepts th
 ## License
 
 [MIT](LICENSE)
+
+## About BuildBias
+
+<p align="center">
+  <a href="https://github.com/BuildBias">
+    <img src="assets/BuildBias.png" width="80" alt="BuildBias">
+  </a>
+</p>
+
+<p align="center">
+  Toki is built and maintained by <a href="https://github.com/BuildBias">BuildBias</a>. Check out our other projects.
+</p>
