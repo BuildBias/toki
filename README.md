@@ -48,6 +48,8 @@ Ponytail plugin each got the same 5 everyday coding prompts in three different p
 
 See [benchmarks/METHODOLOGY.md](benchmarks/METHODOLOGY.md) for how the runs were set up and measured.
 
+Savings stack up: every prompt runs leaner, so the more you use Toki, the more tokens you save.
+
 ## How it works
 
 No cluttered menus. No endless lists of slash commands. Toki operates as a single, highly optimized skill ([`skills/toki/SKILL.md`](skills/toki/SKILL.md)) that acts as a **mandatory file-placement guardrail**.
