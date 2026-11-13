@@ -1,0 +1,22 @@
+name: Question
+description: Ask a question about installing or using Toki.
+title: "[Question]: "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before asking, please check the [README](https://github.com/BuildBias/toki#readme) and [install instructions](https://github.com/BuildBias/toki/blob/main/INSTALL.md).
+
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: What you're trying to do and what you've tried so far.
