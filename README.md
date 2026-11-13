@@ -1,14 +1,14 @@
-<h1 align="center">Toki</h1>
-
-<p align="center">
-  <em>Claude Code plugin for token-efficient coding.</em>
-</p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
     <img src="assets/logo.png" width="220" alt="Toki">
   </picture>
+</p>
+
+<h1 align="center">Toki</h1>
+
+<p align="center">
+  <em>Claude Code plugin for token-efficient coding and clean project structure.</em>
 </p>
 
 <p align="center">
