@@ -9,9 +9,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/BuildBias/toki?style=flat-square&color=111111&label=stars" alt="Stars">
-  <img src="https://img.shields.io/github/v/release/BuildBias/toki?style=flat-square&color=111111&label=release" alt="Release">
-  <img src="https://img.shields.io/github/license/BuildBias/toki?style=flat-square&color=111111" alt="MIT license">
+  <a href="https://github.com/BuildBias/toki/stargazers"><img src="https://img.shields.io/github/stars/BuildBias/toki?style=for-the-badge&label=Stars&labelColor=24292e&color=f5a623" alt="Stars"></a>
+  <a href="https://github.com/BuildBias/toki/releases"><img src="https://img.shields.io/github/v/release/BuildBias/toki?style=for-the-badge&label=Release&labelColor=24292e&color=7c3aed" alt="Release"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/BuildBias/toki?style=for-the-badge&label=License&labelColor=24292e&color=22c55e" alt="MIT license"></a>
+  <br>
+  <a href="https://claude.com/claude-code"><img src="https://img.shields.io/badge/Claude_Code-plugin-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=24292e" alt="Claude Code plugin"></a>
 </p>
 
 Meet Toki - compact, precise and leaves no waste.
