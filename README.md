@@ -16,6 +16,14 @@
   <a href="https://claude.com/claude-code"><img src="https://img.shields.io/badge/Claude_Code-plugin-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=24292e" alt="Claude Code plugin"></a>
 </p>
 
+<p align="center">
+  <a href="#install"><strong>Install</strong></a> ·
+  <a href="#benchmark"><strong>Benchmark</strong></a> ·
+  <a href="#how-it-works"><strong>How it works</strong></a> ·
+  <a href="#license"><strong>License</strong></a> ·
+  <a href="#about-buildbias"><strong>About</strong></a>
+</p>
+
 Meet Toki - compact, precise and leaves no waste.
 
 Built entirely from scratch, Toki is a Claude Code plugin designed with a singular focus: **maximizing token efficiency while maintaining a clean project structure.** It outperforms previous token-saving plugins by ensuring your AI agent writes exactly what is needed — nothing more, nothing less.
